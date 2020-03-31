@@ -1,0 +1,3 @@
+Nombre: Elena
+Edad: 25
+COlor favorito: verde
